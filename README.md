@@ -1,8 +1,8 @@
-### Hi there 👋🏾
+### Hi there 🚀
 
 Soy programador junior, técnico en computación en ETEC en Itanhaém y actualmente estoy cursando una licenciatura en Sistemas de Información en la Universidad de São Paulo (USP).
 
-Yo trabajo como desarrollador web 👨🏾‍💻 en [Equal Dev](https://www.equaldev.com/), principalmente con Node.js y React.
+Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), principalmente con Node.js y React.
 
 ¿Cómo me podes econtrar?
 
@@ -28,5 +28,5 @@ Yo trabajo como desarrollador web 👨🏾‍💻 en [Equal Dev](https://www.equ
 
 
 <!-- Lo puse así para quedarme en la misma línea -->
-![Lenguajes más usados Francisco Funes](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofunes&theme=dracula&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20usadas&langs_count=6) ![Status de Github de Francisco Funes](https://github-readme-stats.vercel.app/api?username=franciscofunes&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
+![Lenguajes más usados Francisco Funes](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofunes&theme=dracula&layout=compact&hide_border=true&custom_title=Lenguajes%20más%20usados&langs_count=6) ![Status de Github de Francisco Funes](https://github-readme-stats.vercel.app/api?username=franciscofunes&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
