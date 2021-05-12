@@ -6,8 +6,8 @@ Yo trabajo como desarrollador web 👨🏾‍💻 en [Equal Dev](https://www.equ
 
 ¿Cómo me podes econtrar?
 
-[![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Fguilhermebalog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/francisco-funes/)](https://www.linkedin.com/in/guilhermebalog/)
-[![Instagram Badge](https://img.shields.io/badge/-%2Fguilhermebalog-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/equal.dev/)](https://www.instagram.com/guilhermebalog/)
+[![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Ffranciscofunes-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/francisco-funes/)](https://www.linkedin.com/in/francisco-funes/)
+[![Instagram Badge](https://img.shields.io/badge/-%2Fequal.dev-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/equal.dev/)](https://www.instagram.com/equal.dev/)
 
 ### Mis tecnologías favoritas del momento
 
@@ -28,5 +28,5 @@ Yo trabajo como desarrollador web 👨🏾‍💻 en [Equal Dev](https://www.equ
 
 
 <!-- Lo puse así para quedarme en la misma línea -->
-![Linguagens mais usadas do Guilherme Balog](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebalog&theme=dracula&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20usadas&langs_count=6) ![Status do Github do Guilherme Balog](https://github-readme-stats.vercel.app/api?username=guilhermebalog&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
+![Lenguajes más usados Francisco Funes](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofunes&theme=dracula&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20usadas&langs_count=6) ![Status de Github de Francisco Funes](https://github-readme-stats.vercel.app/api?username=franciscofunes&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
