@@ -1,6 +1,6 @@
 ### ¡Hola! ¿Cómo están? 🚀
 
-Soy programador junior, técnico en análisis de sistema en el IFTS N° 21 en Argentina, Buenos Aires, CABA.
+Soy programador junior, técnico en análisis de sistema en el IFTS N° 21 en Argentina, Buenos Aires, CABA. Arrancando el año que viene la carrera LICENCIATURA EN GESTIÓN DE TECNOLOGÍA en la Universidad de la Matanza.
 
 Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), principalmente con Node.js y React.
 
