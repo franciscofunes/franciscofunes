@@ -6,8 +6,8 @@ Yo trabajo como desarrollador web 👨🏾‍💻 en [Equal Dev](https://www.equ
 
 ¿Cómo me podes econtrar?
 
-[![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Fguilhermebalog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/guilhermebalog/)](https://www.linkedin.com/in/guilhermebalog/)
-[![Instagram Badge](https://img.shields.io/badge/-%2Fguilhermebalog-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/guilhermebalog/)](https://www.instagram.com/guilhermebalog/)
+[![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Fguilhermebalog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/francisco-funes/)](https://www.linkedin.com/in/guilhermebalog/)
+[![Instagram Badge](https://img.shields.io/badge/-%2Fguilhermebalog-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/equal.dev/)](https://www.instagram.com/guilhermebalog/)
 
 ### Mis tecnologías favoritas del momento
 
