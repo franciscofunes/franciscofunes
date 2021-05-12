@@ -1,10 +1,10 @@
-### Hi there 🚀
+### ¡Hola! ¿Cómo están? 🚀
 
-Soy programador junior, técnico en computación en ETEC en Itanhaém y actualmente estoy cursando una licenciatura en Sistemas de Información en la Universidad de São Paulo (USP).
+Soy programador junior, técnico en análisis de sistema en el IFTS N° 21 en Argentina, Buenos Aires, CABA.
 
 Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), principalmente con Node.js y React.
 
-¿Cómo me podes econtrar?
+¿Cómo me podés econtrar?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Ffranciscofunes-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/francisco-funes/)](https://www.linkedin.com/in/francisco-funes/)
 [![Instagram Badge](https://img.shields.io/badge/-%2Fequal.dev-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/equal.dev/)](https://www.instagram.com/equal.dev/)
