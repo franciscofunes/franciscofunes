@@ -2,7 +2,7 @@
 
 Soy desarrollador Jr.,me encuentró finalizando la carrera de Técnico Superior en Análisis de Sistemas en el [IFTS N° 21](http://www.ifts21.edu.ar/#sistemas) en Argentina, Buenos Aires, CABA. 
 
-En el 2022 la comenzaré la Licenciatura en gestión de tecnología" en la Universidad de la Matanza.
+En el 2022 la comenzaré la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54)" en la Universidad de la Matanza.
 
 Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), principalmente con Node.js y React.
 
