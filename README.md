@@ -4,7 +4,7 @@ Soy desarrollador Jr., me encuentro finalizando la carrera de Técnico Superior 
 
 En el 2022 la comenzaré la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
 
-Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), en algunos proyectos con Node.js y React y en otros con PHP y MySQL.
+Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), utlizando tecnologías como el MERN stack, React + Firebase, LAMP stack, JAMStack, dependiendo las necesidades del cliente.
 
 ¿Cómo me podés econtrar?
 
