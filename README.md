@@ -4,7 +4,7 @@
 
 ✅ En el 2022 la comenzaré la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
 
-✅ Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), utlizando stacks tecnológicos como el MERN stack, JAMStack, LAMP stack dependiendo las necesidades del cliente.
+✅ Me encuentro trabajando como Web Developer 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), utlizando stacks tecnológicos como el MERN stack, JAMStack, LAMP stack dependiendo las necesidades del cliente.
 
 📝 ¿Cómo me podés econtrar?
 
