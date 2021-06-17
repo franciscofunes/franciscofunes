@@ -1,12 +1,12 @@
 ### ¡Hola! ¿Cómo están? 🚀
 
-Soy desarrollador Jr., me encuentro finalizando la carrera de Técnico Superior en Análisis de Sistemas en el [IFTS N° 21](http://www.ifts21.edu.ar/#sistemas) en Argentina, Buenos Aires, CABA. 
+✅ Soy desarrollador Jr., me encuentro finalizando la carrera de Técnico Superior en Análisis de Sistemas en el [IFTS N° 21](http://www.ifts21.edu.ar/#sistemas) en Argentina, Buenos Aires, CABA. 
 
-En el 2022 la comenzaré la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
+✅ En el 2022 la comenzaré la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
 
-Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), utlizando stacks tecnológicos como el MERN stack, JAMStack, LAMP stack dependiendo las necesidades del cliente.
+✅ Ya trabajo como desarrollador web 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), utlizando stacks tecnológicos como el MERN stack, JAMStack, LAMP stack dependiendo las necesidades del cliente.
 
-¿Cómo me podés econtrar?
+📝 ¿Cómo me podés econtrar?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Ffranciscofunes-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/francisco-funes/)](https://www.linkedin.com/in/francisco-funes/)
 [![Instagram Badge](https://img.shields.io/badge/-%2Fequal.dev-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/equal.dev/)](https://www.instagram.com/equal.dev/)
