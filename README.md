@@ -4,8 +4,6 @@
 
 ✅ En el 2022 la comenzaré la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
 
-✅ Me encuentro trabajando como Web Developer 🛸🔴💻 en [Equal Dev](https://www.equaldev.com/), utlizando stacks tecnológicos como el MERN, JAMStack, LAMP
-
 📝 ¿Cómo me podés econtrar?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Ffranciscofunes-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/francisco-funes/)](https://www.linkedin.com/in/francisco-funes/)
