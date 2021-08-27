@@ -18,7 +18,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-44475a?style=for-the-badge&logo=html5&logoColor=50fa7b)
 ![CSS3](https://img.shields.io/badge/-CSS3-44475a?style=for-the-badge&logo=css3&logoColor=50fa7b)
 
-### Otras tecnologías con las que desarrollo
+### Otras tecnologías que he explorado
 
 ![Java](https://img.shields.io/badge/-Java-44475a?style=flat-square&logo=java&logoColor=f8f8f2)
 ![MySQL](https://img.shields.io/badge/-MySQL-44475a?style=flat-square&logo=mysql&logoColor=f8f8f2)
