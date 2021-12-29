@@ -21,6 +21,7 @@
 ### Otras tecnologías que he explorado
 
 ![Java](https://img.shields.io/badge/-Java-44475a?style=flat-square&logo=java&logoColor=f8f8f2)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=f8f8f2)
 ![MySQL](https://img.shields.io/badge/-MySQL-44475a?style=flat-square&logo=mysql&logoColor=f8f8f2)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-44475a?style=flat-square&logo=postgreSQL&logoColor=f8f8f2)
 ![Python](https://img.shields.io/badge/-Python-44475a?style=flat-square&logo=python&logoColor=f8f8f2)
