@@ -4,7 +4,7 @@
 
 ✅ En el 2022 la comenzaré la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
 
-📝 ¿Cómo me podés econtrar?
+📝 ¿Cómo me podés encontrar?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Ffranciscofunes-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/francisco-funes/)](https://www.linkedin.com/in/francisco-funes/)
 [![Instagram Badge](https://img.shields.io/badge/-%2Fequal.dev-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/equal.dev/)](https://www.instagram.com/equal.dev/)
