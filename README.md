@@ -2,7 +2,7 @@
 
 ✅ Soy Front-End Developer ,a su vez finalice la carrera de Técnico Superior en Análisis de Sistemas en el [IFTS N° 21](http://www.ifts21.edu.ar/#sistemas) en Argentina, Buenos Aires, CABA. 
 
-✅ En el 2022 la comenzaré la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
+✅ En el año 2022 me encuentro estudiando la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
 
 📝 ¿Cómo me podés encontrar?
 
