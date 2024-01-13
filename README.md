@@ -1,19 +1,21 @@
-### ¡Hola! ¿Cómo están? 🚀
+### Hello! How are you? 🚀
 
-✅ Soy Front-End Developer, a su vez finalice la carrera de Técnico Superior en Análisis de Sistemas en el [IFTS N° 21](http://www.ifts21.edu.ar/#sistemas) en Argentina, Buenos Aires, CABA. 
+✅ I'm a Front-End Developer and have completed the Technical Superior Systems Analysis program at [IFTS N° 21](http://www.ifts21.edu.ar/#sistemas) in Argentina, Buenos Aires, CABA.
 
-✅ En el año 2023 me encuentro estudiando el último año de la [Licenciatura en gestión de tecnología](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) en la Universidad de la Matanza.
+✅ In 2023, I successfully completed my studies in [Technology Management](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) at the University of La Matanza.
 
-📝 ¿Cómo me podés encontrar?
+📝 How can you find me?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Ffranciscofunes-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/francisco-funes/)](https://www.linkedin.com/in/francisco-funes/)
 [![Instagram Badge](https://img.shields.io/badge/-%2Fequal.dev-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/equal.dev/)](https://www.instagram.com/equal.dev/)
 
-### Mis tecnologías favoritas del momento
+### My favourite technologies at the moment
 
 ![Node](https://img.shields.io/badge/-Node.js-44475a?style=for-the-badge&logo=node.js&logoColor=50fa7b)
 ![React](https://img.shields.io/badge/-React-44475a?style=for-the-badge&logo=react&logoColor=50fa7b)
 ![Next.js](https://img.shields.io/badge/-Next.js-44475a?style=for-the-badge&logo=next.js&logoColor=50fa7b)
+![C#](https://img.shields.io/badge/-C%23-44475a?style=flat-square&logo=c-sharp&logoColor=f8f8f2)
+![.NET](https://img.shields.io/badge/-.NET-44475a?style=flat-square&logo=.net&logoColor=f8f8f2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-44475a?style=for-the-badge&logo=javascript&logoColor=50fa7b)
 ![HTML5](https://img.shields.io/badge/-HTML5-44475a?style=for-the-badge&logo=html5&logoColor=50fa7b)
 ![CSS3](https://img.shields.io/badge/-CSS3-44475a?style=for-the-badge&logo=css3&logoColor=50fa7b)
@@ -28,6 +30,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-44475a?style=flat-square&logo=php&logoColor=f8f8f2)
 
 
-<!-- Lo puse así para quedarme en la misma línea -->
-![Lenguajes más usados Francisco Funes](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofunes&theme=dracula&layout=compact&hide_border=true&custom_title=Lenguajes%20más%20usados&langs_count=6) ![Status de Github de Francisco Funes](https://github-readme-stats.vercel.app/api?username=franciscofunes&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
+<!-- same line -->
+![More used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofunes&theme=dracula&layout=compact&hide_border=true&custom_title=Lenguajes%20más%20usados&langs_count=6) ![Status of Github  Francisco Funes](https://github-readme-stats.vercel.app/api?username=franciscofunes&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
