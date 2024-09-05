@@ -4,7 +4,7 @@
 
 ✅ In 2023, I successfully completed my studies in [Technology Management](https://formacioncontinua.unlam.edu.ar/index.php?seccion=2&idArticulo=54) at the University of La Matanza.
 
-✅ With over 2 years of experience as a Software Developer, I boast a track record of contributing to high-performing teams. This involves delivering innovative customer-centered products that not only meet but exceed business needs. My entrepreneurial and lean mindset has been honed through experience in both established multinationals and startups undergoing hyper-growth stages.
+✅ With over 5 years of experience as a Software Developer, I boast a track record of contributing to high-performing teams. This involves delivering innovative customer-centered products that not only meet but exceed business needs. My entrepreneurial and lean mindset has been honed through experience in both established multinationals and startups undergoing hyper-growth stages.
 
 📝 How can you find me?
 
